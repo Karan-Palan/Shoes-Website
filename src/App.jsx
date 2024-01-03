@@ -1,3 +1,4 @@
+import { Nav } from "./components";
 import {
   CustomerReviews,
   Footer,
